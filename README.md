@@ -83,7 +83,8 @@ plt.show()
 ### OUTPUT:
 # FIRST FIVE ROWS:
 
-![Uploading Screenshot 2024-09-14 132759.png…]()
+
+![Screenshot 2024-10-16 124141](https://github.com/user-attachments/assets/2d9641d8-cbb2-41ec-9f94-2381808a369c)
 
 
 
@@ -92,12 +93,16 @@ plt.show()
 
 SEASONAL PLOT REPRESENTATION :
 
+![Screenshot 2024-10-16 124232](https://github.com/user-attachments/assets/e769621f-1d9b-42f8-889b-97fe8071a33d)
 
 
 TREND PLOT REPRESENTATION :
+![Screenshot 2024-10-16 124259](https://github.com/user-attachments/assets/86cfa2ff-1150-4224-9274-ef23bd6cd665)
+
 
 OVERAL REPRESENTATION:
 
+![Screenshot 2024-10-16 124418](https://github.com/user-attachments/assets/5d4feba9-0e45-47e3-bb23-51ff0aa724bd)
 
 
 ### RESULT:
